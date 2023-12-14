@@ -8,5 +8,5 @@
 
 #### Some pointers to future me : 
 
-- [ ] Use [Armadillo](https://arma.sourceforge.net/docs.html) as a NumPy substitute. <br> 
+- [ ] Use [Armadillo](https://arma.sourceforge.net/docs.html) as a NumPy substitute, look [here (SO Link)](https://stackoverflow.com/questions/11169418/numpy-style-arrays-for-c). <br> 
 - [ ] Figure out CSV reading, well i can probably hardcode the data as a vector, but still.
