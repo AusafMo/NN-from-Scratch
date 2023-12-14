@@ -9,4 +9,4 @@
 #### Some pointers to future me : 
 
 - [ ] Use [Armadillo](https://arma.sourceforge.net/docs.html) as a NumPy substitute, look [here (SO Link)](https://stackoverflow.com/questions/11169418/numpy-style-arrays-for-c). <br> 
-- [ ] Figure out CSV reading, well i can probably hardcode the data as a vector, but still.
+- [ ] Figure out CSV reading, look [SO](https://stackoverflow.com/questions/1120140/how-can-i-read-and-parse-csv-files-in-c), well i can probably hardcode the data as a vector, but still.
